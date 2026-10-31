@@ -1,0 +1,6 @@
+# Extra packages on top of quay.io/jupyter/scipy-notebook:2026-09-29 (Python 3.13),
+# which already ships numpy, pandas, scipy, statsmodels, scikit-learn, matplotlib, joblib, nbformat.
+# Install inside the container:
+#   pip install --user -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.1+cpu
+timesfm[torch]==3.0.2
