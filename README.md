@@ -15,9 +15,3 @@ Saves `data/grid5060_rows.tsv`. Rerunning resumes from verified days. The initia
 ## Notebook
 
 Open `notebook.ipynb` after downloading. Use the Jupyter environment specified in `requirements.txt`, then install its extra packages as described there.
-
-## Tests
-
-```bash
-make check
-```

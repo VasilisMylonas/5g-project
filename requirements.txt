@@ -4,3 +4,4 @@
 #   pip install --user -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.14.1+cpu
 timesfm[torch]==3.0.2
+holidays==0.106
