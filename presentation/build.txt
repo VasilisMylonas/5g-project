@@ -1,0 +1,537 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(slides.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+.cls
+Document Class: beamer 2026/08/20 v3.78 A class for typesetting presentations
+
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basemodes.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
+lbox.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basedecode.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseoptions.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
+x.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.cfg))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfm
+ath.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfrcs.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-latex.def)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfrcs.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.rev
+ision.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfkeys.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeyslibraryfiltered.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmath.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathutil.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathparser.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.basic.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.trigonometric.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.random.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.comparison.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.base.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.round.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.misc.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.integerarithmetics.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathcalc.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfloat.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.c
+lo)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
+r\pgfcore.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+xetex.def)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlay
+er\pgfsys.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgf.cfg)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-xetex.def
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-dvipdfmx.def
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-common-pdf.def))))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsyssoftpath.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsysprotocol.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/graphics\math
+color.ltx))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcore.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fint.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepoints.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathconstruct.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathusage.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorescopes.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoregraphicstate.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransformations.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorequick.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreobjects.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathprocessing.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorearrows.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreshade.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreimage.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreexternal.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorelayers.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransparency.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepatterns.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorerdf.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\xxcolor.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi
+-ltx.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hype
+rref.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvs
+etkeys.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekey
+s\kvdefinekeys.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\p
+dfescape.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
+cmds.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
+pdftexcmds.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
+nfwarerr.sty)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycol
+or.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\name
+ref.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refc
+ount.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestr
+ing\gettitlestring.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvo
+ptions.sty)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\s
+tringenc.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1e
+nc.def)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\int
+calc.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puen
+c.def)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bits
+et.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\
+bigintcalc.sty))
+
+Package hyperref Message: Stopped early.
+
+)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxet
+ex.def
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilechec
+k\rerunfilecheck.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/uniquecount
+er\uniquecounter.sty)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baserequires.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basecompatibility.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basefont.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amss
+ymb.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsf
+onts.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccen
+t\sansmathaccent.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlfile.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlfile-hook.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlogo.sty)))))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetranslator.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basemisc.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetwoscreens.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseoverlay.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetitle.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basesection.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframe.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseverbatim.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframesize.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframecomponents.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basecolor.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basenotes.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetoc.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetemplates.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseauxtemplates.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseboxes.sty)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baselocalstructure.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumera
+te.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basenavigation.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basenavigationsymbols.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetheorems.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
+th.sty
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
+xt.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
+n.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
+y.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
+n.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm
+.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basethemes.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+themedefault.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+fontthemedefault.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+colorthemedefault.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+innerthemedefault.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+outerthemedefault.sty)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\beamerthememetropolis.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgfopts\pgfop
+ts.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\beamerinnerthememetropolis.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.st
+y)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendl
+ayer\tikz.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
+r\pgf.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduleshapes.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduleplot.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
+lity\pgfcomp-version-0-65.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibi
+lity\pgfcomp-version-1-18.sty))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgffor.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgffor.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz\tikz.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryplothandlers.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmodulematrix.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarytopaths.code.tex))))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\beamerouterthememetropolis.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\beamercolorthememetropolis.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\beamerfontthememetropolis.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxet
+ex.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iflua
+tex.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\font
+spec.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xp
+arse\xparse.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl
+3.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-xetex.def)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\font
+spec-xetex.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.
+sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\font
+spec.cfg)))))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+fontthemeprofessionalfonts.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\p
+olyglossia.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\g
+loss-latex.ldf))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\g
+loss-greek.ldf
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\x
+greek-fixes.def))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/polyglossia\g
+loss-english.ldf)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\
+unicode-math.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\
+unicode-math-xetex.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3
+keys2e\l3keys2e.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.s
+ty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.d
+ef))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\
+unicode-math-table.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
+tabs.sty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.s
+ty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\
+algpseudocode.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.s
+ty)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\
+algorithmicx.sty
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryarrows.meta.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules
+\pgfmoduledecorations.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es/decorations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfp
+lots.sty
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.revision.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotscore.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sy
+s\pgfplotssysgeneric.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\pgfplotslibrary.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ol
+dpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ol
+dpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotsutil.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+ststructure\pgfplotsliststructure.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+ststructure\pgfplotsliststructureext.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+ststructure\pgfplotsarray.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+ststructure\pgfplotsmatrix.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/nu
+mtable\pgfplotstableshared.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+ststructure\pgfplotsdeque.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotsbinary.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotsbinary.data.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotsutil.verb.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\pgflibrarypgfplots.surfshading.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sy
+s\pgflibrarypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sy
+s\pgflibrarypgfplots.surfshading.pgfsys-dvipdfmx.def))))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotscolormap.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/ut
+il\pgfplotscolor.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotsstackedplots.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotsplothandlers.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotsmeshplothandler.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotsmeshplotimage.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.scaling.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotscoordprocessing.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.errorbars.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.markers.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplotsticks.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pg
+fplots.paths.code.tex)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es/decorations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\tikzlibrarypgfplots.contourlua.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryplotmarks.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\tikzlibrarypgfplots.groupplots.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibrarycalc.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\tikzlibrarypgfplots.fillbetween.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/pg
+fcontrib\tikzlibraryfillbetween.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/fronten
+dlayer/tikz/libraries\tikzlibraryintersections.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librari
+es\pgflibraryintersections.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/pg
+fcontrib\tikzlibrarydecorations.softclip.code.tex
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/pg
+fcontrib\pgflibraryfillbetween.code.tex)))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/li
+bs\tikzlibrarypgfplots.decorations.softclip.code.tex))
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/beamertheme-m
+etropolis\pgfplotsthemetol.sty) (slides.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(slides.out) (slides.out)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-basic-dictionary-English.dict)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-bibliography-dictionary-English.dict)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-environment-dictionary-English.dict)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-months-dictionary-English.dict)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-numbers-dictionary-English.dict)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-theorem-dictionary-English.dict)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
+
+(slides.nav)
+Overfull \vbox (13.79993pt too high) detected at line 91
+[1]
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
+.fd)
+(C:\Users\Vasilis Mylonas\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
+.fd) [2]
+Overfull \hbox (1.07463pt too wide) detected at line 170
+[][] [] [][] [] [][][]  [][] [] [][] [] [][]
+[3] [4] [5]
+Overfull \hbox (3.39743pt too wide) in paragraph at lines 280--280
+[][] 
+[6] [7]
+Overfull \hbox (3.73654pt too wide) in paragraph at lines 351--351
+[][]  
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
+[23]
+Overfull \hbox (26.54344pt too wide) in paragraph at lines 980--980
+[][]  
+[24] [25] [26] [27] (slides.aux)miktex-dvipdfmx: major issue: So far, you have not checked for MiKTeX updates.
+ )
+(see the transcript file for additional information)
+Output written on slides.pdf (27 pages).
+Transcript written on slides.log.
+xelatex: major issue: So far, you have not checked for MiKTeX updates.
